@@ -1,0 +1,2 @@
+# MyfirstCode
+Competing my activity
